@@ -1,12 +1,11 @@
-## Hello there! I'm Pintu Baranwal 🫡                                                                                                                            
+## Hello there! I'm Pintu Kumar Baranwal 🫡                                                                                                                            
 
 ### ✨About me✨
-* 🌱 I'm currently working on advanced computer vision and generative AI.
-* 🤖 Looking forward to work as an AI engineer, Data Scientist, or Computer Vision Engineer.
+* 🌱 I'm currently working on MERN stack.
+* 🤖 Looking forward to work as a Software Engineer, Data Engineer, Backend Developer or Fullstack Developer.
 * 🧿 Interested to explore 3D Computer Vision for 3D reconstruction and scene understanding tasks.
-* 🦄 Proficient in efficiently pre-training, fine-tuning, and utilizing open LLMs, and vision models.
-* 🎥 In my free time, I pursue Video Editing, 3D Animation, and Content Writing as hobbies/side hustles.
-* 📄 Please have a look at my [Résumé](https://drive.google.com/file/d/1--YB2_xyg9uvjgI1tor-SDV9X80XOk1b/view) for more details about me. I'm open to feedback and suggestions!
+* 🦄 Proficient in problem solving, DSA and competitive programming .
+* 📄 Please have a look at my [Résumé]([https://drive.google.com/file/d/1--YB2_xyg9uvjgI1tor-SDV9X80XOk1b/view](https://drive.google.com/drive/folders/1t3b4zTcv3pTBi8SxDBCUZC_FSZ-9BZBK)) for more details about me. I'm open to feedback and suggestions!
 
 ### **Tech Stack** 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)&nbsp;
