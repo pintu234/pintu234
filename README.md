@@ -3,7 +3,6 @@
 ### ✨About me✨
 * 🌱 I'm currently working on MERN stack.
 * 🤖 Looking forward to work as a Software Engineer, Data Engineer, Backend Developer or Fullstack Developer.
-* 🧿 Interested to explore 3D Computer Vision for 3D reconstruction and scene understanding tasks.
 * 🦄 Proficient in problem solving, DSA and competitive programming .
 * 📄 Please have a look at my [Résumé](https://drive.google.com/drive/folders/1t3b4zTcv3pTBi8SxDBCUZC_FSZ-9BZBK) for more details about me. I'm open to feedback and suggestions!
 
